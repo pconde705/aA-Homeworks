@@ -1,3 +1,4 @@
+#Exercise 1
 class Stack
   def initialize
     @stack = []
